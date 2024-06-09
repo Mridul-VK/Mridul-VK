@@ -3,7 +3,7 @@
 <br />
 <img align="right" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="450" alt="coding"></img>
 
-<h2 align="left">ℹ️ About</h2>
+<h2 align="left">About</h2>
 - 🔭 I’m currently working on **React Native & Next.js**
 
 - 🌱 I’m currently learning **Typescript, React Native, Next.js**
