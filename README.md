@@ -12,10 +12,3 @@
 - 💬 Ask me about **MERN**
 
 - ⚡ Fun fact **I'm a MEDICAL STUDENT**
-<br /><br />
-<h3 align="left">Github Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mridul-vk&show_icons=true&locale=en&layout=compact&theme=dark" alt="mridul-vk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridul-vk&show_icons=true&locale=en&theme=dark" alt="mridul-vk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mridul-vk&theme=dark" alt="mridul-vk" /></p>
